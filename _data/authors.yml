@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Srinivas Mudavath:
+  name        : "Srinivas Mudavath"
+  uri         : "https://srinivasmudavath.com"
+  email       : "hello@srinivasmudavath.com"
+  bio         : "Principal Software Engineer & Engineering Leader with 12+ years architecting enterprise-scale distributed systems and leading high-performing engineering teams."
+  avatar      : "profile.png"
+  twitter     : 
+  linkedin    : "srinivasmudavath"
+  github      : "srinivasmudavath"
